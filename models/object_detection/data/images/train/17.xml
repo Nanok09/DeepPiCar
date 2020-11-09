@@ -1,26 +1,26 @@
 <annotation>
-	<folder>drive-download-20201108T135030Z-001</folder>
-	<filename>IMG_5892.jpg</filename>
-	<path>C:/Users/recke/Documents/EcoleCentraleLille/Cours/S7/Auto/Miniprojets/Maquette/drive-download-20201108T135030Z-001/IMG_5892.jpg</path>
+	<folder>train</folder>
+	<filename>17.jpg</filename>
+	<path>D:\projetSta\object_detection_demo\data\images\train\17.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4032</width>
-		<height>3024</height>
+		<width>800</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>vert</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>950</xmin>
-			<ymin>1146</ymin>
-			<xmax>1127</xmax>
-			<ymax>1510</ymax>
+			<xmin>85</xmin>
+			<ymin>142</ymin>
+			<xmax>130</xmax>
+			<ymax>228</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1093</xmin>
-			<ymin>1610</ymin>
-			<xmax>1417</xmax>
-			<ymax>2110</ymax>
+			<xmin>114</xmin>
+			<ymin>239</ymin>
+			<xmax>153</xmax>
+			<ymax>339</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,82 +41,82 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3008</xmin>
-			<ymin>2030</ymin>
-			<xmax>3318</xmax>
-			<ymax>2583</ymax>
+			<xmin>421</xmin>
+			<ymin>192</ymin>
+			<xmax>466</xmax>
+			<ymax>278</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>person</name>
+		<name>speed limit 50</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2464</xmin>
-			<ymin>1270</ymin>
-			<xmax>2694</xmax>
-			<ymax>1720</ymax>
+			<xmin>150</xmin>
+			<ymin>76</ymin>
+			<xmax>196</xmax>
+			<ymax>165</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>stop</name>
+		<name>speed limit 30</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2198</xmin>
-			<ymin>843</ymin>
-			<xmax>2534</xmax>
-			<ymax>1176</ymax>
+			<xmin>293</xmin>
+			<ymin>275</ymin>
+			<xmax>357</xmax>
+			<ymax>410</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>stop</name>
+		<name>red light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1443</xmin>
-			<ymin>813</ymin>
-			<xmax>1743</xmax>
-			<ymax>1166</ymax>
+			<xmin>248</xmin>
+			<ymin>103</ymin>
+			<xmax>277</xmax>
+			<ymax>148</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>50</name>
+		<name>stop sign</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1703</xmin>
-			<ymin>1143</ymin>
-			<xmax>2003</xmax>
-			<ymax>1483</ymax>
+			<xmin>254</xmin>
+			<ymin>140</ymin>
+			<xmax>305</xmax>
+			<ymax>265</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>30</name>
+		<name>stop sign</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2948</xmin>
-			<ymin>980</ymin>
-			<xmax>3294</xmax>
-			<ymax>1300</ymax>
+			<xmin>388</xmin>
+			<ymin>94</ymin>
+			<xmax>450</xmax>
+			<ymax>203</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>rouge</name>
+		<name>green light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2114</xmin>
-			<ymin>1540</ymin>
-			<xmax>2301</xmax>
-			<ymax>1966</ymax>
+			<xmin>536</xmin>
+			<ymin>279</ymin>
+			<xmax>575</xmax>
+			<ymax>399</ymax>
 		</bndbox>
 	</object>
 </annotation>
