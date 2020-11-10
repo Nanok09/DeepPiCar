@@ -65,6 +65,9 @@ def main():
                     print('can NOT read from camera')
                     break
 
+                frame_expanded = np.expand_dims(frame, axis=0)
+
+                ret, img = camera.read()
                 input = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)  # convert to RGB color space
                 img_pil = Image.fromarray(input)
                 #input = cv2.resize(input, (width,height))

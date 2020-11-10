@@ -12,111 +12,111 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>person</name>
+		<name>Stop</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>97</xmin>
-			<ymin>191</ymin>
-			<xmax>139</xmax>
-			<ymax>267</ymax>
+			<xmin>125</xmin>
+			<ymin>185</ymin>
+			<xmax>196</xmax>
+			<ymax>256</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>person</name>
+		<name>Stop</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>271</xmin>
-			<ymin>152</ymin>
-			<xmax>305</xmax>
-			<ymax>220</ymax>
+			<xmin>259</xmin>
+			<ymin>172</ymin>
+			<xmax>310</xmax>
+			<ymax>218</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>person</name>
+		<name>Person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>295</xmin>
-			<ymin>326</ymin>
-			<xmax>330</xmax>
-			<ymax>415</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stop sign</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>134</xmin>
-			<ymin>103</ymin>
-			<xmax>186</xmax>
-			<ymax>193</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stop sign</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>391</xmin>
-			<ymin>145</ymin>
-			<xmax>437</xmax>
-			<ymax>235</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>speed limit 50</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>244</xmin>
+			<xmin>352</xmin>
 			<ymin>190</ymin>
-			<xmax>296</xmax>
-			<ymax>281</ymax>
+			<xmax>388</xmax>
+			<ymax>256</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>speed limit 30</name>
+		<name>Person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>519</xmin>
-			<ymin>229</ymin>
-			<xmax>568</xmax>
-			<ymax>324</ymax>
+			<xmin>412</xmin>
+			<ymin>196</ymin>
+			<xmax>448</xmax>
+			<ymax>270</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>red light</name>
+		<name>Person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>394</xmin>
-			<ymin>246</ymin>
-			<xmax>424</xmax>
-			<ymax>336</ymax>
+			<xmin>537</xmin>
+			<ymin>215</ymin>
+			<xmax>576</xmax>
+			<ymax>301</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>green light</name>
+		<name>Green</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>528</xmin>
-			<ymin>389</ymin>
-			<xmax>562</xmax>
-			<ymax>487</ymax>
+			<xmin>238</xmin>
+			<ymin>224</ymin>
+			<xmax>275</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>674</xmin>
+			<ymin>215</ymin>
+			<xmax>716</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Limit 30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>195</ymin>
+			<xmax>356</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Limit 50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>174</ymin>
+			<xmax>519</xmax>
+			<ymax>218</ymax>
 		</bndbox>
 	</object>
 </annotation>
